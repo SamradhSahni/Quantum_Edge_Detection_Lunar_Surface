@@ -1,0 +1,1 @@
+{"source": "procedural_fallback", "n_tiles": 12, "seed": 42, "note": "Analytic crater tiles generated offline; used because the SomBench HuggingFace download was unavailable."}

@@ -1,0 +1,1 @@
+This project evaluates edge detection quality and robustness, not quantum computational advantage. State preparation, measurement, and reconstruction dominate total quantum pipeline time at these small scales.

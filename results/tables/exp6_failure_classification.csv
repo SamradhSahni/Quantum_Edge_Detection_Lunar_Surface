@@ -1,0 +1,17 @@
+geometry,method,quantum_f1,classical_f1,robinson_dominant_deg,failure_case
+horizontal_line,qhed,1.0,0.8,45,no failure
+horizontal_line,neqr,1.0,0.8,45,no failure
+vertical_line,qhed,1.0,0.8,45,no failure
+vertical_line,neqr,1.0,0.8,45,no failure
+diagonal_45,qhed,0.968,0.885,0,no failure
+diagonal_45,neqr,0.968,0.885,0,no failure
+corner,qhed,0.75,1.0,0,A: quantum-specific
+corner,neqr,0.75,1.0,0,A: quantum-specific
+circle,qhed,0.776,0.938,0,A: quantum-specific
+circle,neqr,0.776,0.938,0,A: quantum-specific
+ellipse,qhed,0.895,1.0,45,no failure
+ellipse,neqr,0.895,1.0,45,no failure
+multi_circles,qhed,0.905,1.0,0,no failure
+multi_circles,neqr,0.905,1.0,0,no failure
+irregular_curve,qhed,0.905,1.0,45,no failure
+irregular_curve,neqr,0.905,1.0,45,no failure

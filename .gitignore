@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Node (deck tooling)
+node_modules/
+
+# Data that can be regenerated or downloaded
+data/mnist/
+data/nasa_lro/
+
+# Editor / OS
+.zcode/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Render intermediates
+report/_render/
+*.log
+
+# Local tooling
+.zcodeignore

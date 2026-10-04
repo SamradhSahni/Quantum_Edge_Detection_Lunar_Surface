@@ -1,0 +1,6 @@
+method,rel_threshold
+sobel,0.01
+canny,0.01
+robinson,0.01
+qhed,0.01
+neqr,0.01

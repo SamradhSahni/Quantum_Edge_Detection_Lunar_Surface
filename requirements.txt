@@ -1,0 +1,35 @@
+# Quantum Edge Detection project dependencies
+# Python >= 3.10 recommended (tested on 3.12)
+
+[quantum]
+qiskit>=1.0
+qiskit-aer>=0.14
+
+[classical-vision]
+opencv-python>=4.9
+scikit-image>=0.22
+
+[numerical]
+numpy>=1.26
+scipy>=1.12
+
+[visualisation]
+matplotlib>=3.8
+seaborn>=0.13
+
+[data]
+Pillow>=10.0
+pycocotools
+
+[results]
+pandas>=2.0
+tqdm
+
+[dashboard]
+streamlit>=1.30
+
+[notes]
+# Optional extras (not required for the core pipeline):
+#   datasets, huggingface_hub  -> SomBench download from the HF hub
+#   torchvision                -> MNIST circuit-debugging loader
+#   qiskit-ibm-runtime         -> optional IBM Quantum hardware proof-of-concept

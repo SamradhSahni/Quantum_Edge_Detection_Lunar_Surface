@@ -1,0 +1,5 @@
+dataset,image,method,logical_qubits,ancilla,total_qubits,kernel_time_s,e2e_time_s
+synthetic,horizontal_line,qhed,6,1,7,0.028721329999461885,0.2094546699998318
+synthetic,horizontal_line,neqr,22,2,24,0.00048110000061569736,0.016098620000775554
+lunar,patch_8px_lunarfb_000_169_82.png,qhed,6,1,7,0.03002011000062339,0.2312017799995374
+lunar,patch_8px_lunarfb_000_169_82.png,neqr,22,2,24,0.00043003999890061094,0.027383639999607114

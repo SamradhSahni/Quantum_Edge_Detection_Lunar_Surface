@@ -1,0 +1,9 @@
+geometry,dominant_angle_deg,dominant_strength,spread
+horizontal_line,45,0.0,0.0
+vertical_line,45,0.0,0.0
+diagonal_45,0,0.167,0.0
+corner,0,0.562,0.031
+circle,0,0.55,0.0
+ellipse,45,0.833,0.167
+multi_circles,0,0.687,0.062
+irregular_curve,45,0.75,0.096
